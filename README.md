@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Samir, a 21 year old Computer Science student at the University of Minho in Braga, Portugal. I enjoy studying and programming operating systems, and I'm currently focusing on algorithms and data structures.
+
+[![My Skills](https://skillicons.dev/icons?i=C,java,haskell)](https://skillicons.dev)
 
 <!--
 **Samir204/Samir204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
