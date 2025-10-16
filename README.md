@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Samir
 I'm a Computer Science student at the University of Minho (Braga, Portugal) with a strong focus on **operating systems, algorithms, and low-level programming**.  
-I enjoy building efficient systems and exploring how hardware and software interact — from process scheduling to memory management.
+I enjoy building efficient systems and exploring how hardware and software interact, from process scheduling to memory management.
 
 Core Skills:
 <p align="center">
