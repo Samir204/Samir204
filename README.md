@@ -1,7 +1,8 @@
-## Hi there 👋
-I'm Samir, a 21 year old Computer Science student at the University of Minho in Braga, Portugal. I enjoy studying and programming operating systems, and I'm currently focusing on algorithms and data structures.
+## 👋 Hey, I'm Samir
+I'm a Computer Science student at the University of Minho (Braga, Portugal) with a strong focus on **operating systems, algorithms, and low-level programming**.  
+I enjoy building efficient systems and exploring how hardware and software interact — from process scheduling to memory management.
 
-Programming Languages:
+Core Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,haskell,matlab,apple" />
