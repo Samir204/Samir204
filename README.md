@@ -4,7 +4,7 @@ I'm Samir, a 21 year old Computer Science student at the University of Minho in 
 Programming Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,haskell,MATLAB" />
+    <img src="https://skillicons.dev/icons?i=c,java,haskell,matlab,apple" />
   </a>
 </p>
 
